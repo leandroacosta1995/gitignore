@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+
+}
+
+.titulo{
+    text-align: center;
+    text-decoration: double;
+    font-size: larger;
+    font-size: 55px;
+}
+
+.noticias{
+    display: block;
+    align-self: auto;
+    background-color: rgb(64, 122, 145);
+    max-width: 400px;
+
+
+}
